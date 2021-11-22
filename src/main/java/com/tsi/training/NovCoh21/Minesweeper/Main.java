@@ -39,5 +39,10 @@ public class Main
             }
         } while (difficultyNotSet);
 
+        for (int i = 0 ; i < game.size ; i++)
+        {
+
+        }
+
     }
 }

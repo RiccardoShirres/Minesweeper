@@ -25,6 +25,7 @@ public class Board {
             grid.add(new ArrayList<Space>(size));
         }
         this.grid = grid;
+        this.size = size;
     }
 
     ///////////////////////Constructor//////////////////
