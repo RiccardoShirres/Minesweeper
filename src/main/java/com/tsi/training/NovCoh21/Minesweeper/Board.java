@@ -8,6 +8,7 @@ public class Board {
 
     public int size;
 
+
     public String difficulty;
 
     public int totalMines;
